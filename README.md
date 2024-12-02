@@ -1,5 +1,5 @@
 # Pacman
-This is a group project for fundamentals of Computer Networks at Indiana University Southeast. Cheyenne Pierpont &  Rory Stiff 
+This is a group project for fundamentals of Computer Networks at Indiana University Southeast. Rory Stiff & Cheyenne Pierpont
 Project Outline: 
   
 Our Project proposal is to make a network gamed connected through two laptops. Is a
